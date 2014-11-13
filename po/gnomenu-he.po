@@ -1,0 +1,758 @@
+# Hebrew translation for gnomenu
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the gnomenu package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnomenu\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2010-06-16 22:37+0000\n"
+"PO-Revision-Date: 2010-06-29 10:09+0000\n"
+"Last-Translator: Yaron <sh.yaron@gmail.com>\n"
+"Language-Team: Hebrew <he@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2010-07-07 17:36+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:73
+msgid ""
+"GnoMenu detected a malicious script in this theme.\n"
+"The script was blocked!\n"
+"You should uninstall the selected theme and contact the website where you "
+"got it.\n"
+"\n"
+"The script that tried to run was:"
+msgstr ""
+"GnoMenu איתר תסריט זדוני בערכת הנושא הזו.\n"
+"התסריט נחסם!\n"
+"יש להסיר את ערכת הנושא שנבחרה וליצור קשר עם האתר שממנו הורדת אותה.\n"
+"\n"
+"התסריט שניסה לרוץ היה:"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "All Applications"
+msgstr "כל היישומים"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "All Programs"
+msgstr "כל התוכנות"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Applications"
+msgstr "יישומים"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Connect"
+msgstr "חיבור"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Connect To"
+msgstr "חיבור אל"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Connect To Server"
+msgstr "חיבור לשרת"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Connect to Server"
+msgstr "חיבור לשרת"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Control Center"
+msgstr "מרכז הבקרה"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Distro"
+msgstr "הפצה"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Documents"
+msgstr "מסמכים"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Execute Application"
+msgstr "הרצת יישום"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Favorites"
+msgstr "מועדפים"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Games"
+msgstr "משחקים"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Hdd"
+msgstr "התקן כונן קשיח"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Help And Support"
+msgstr "עזרה ותמיכה"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Help Center"
+msgstr "מרכז העזרה"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "History"
+msgstr "היסטוריה"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Home"
+msgstr "בית"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Install Software"
+msgstr "התקנת תוכנות"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Leave"
+msgstr "יציאה"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Lock"
+msgstr "נעילה"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Lock Computer"
+msgstr "נעילת המחשב"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Log Out"
+msgstr "ניתוק"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Menu"
+msgstr "תפריט"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Music"
+msgstr "מוזיקה"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "My Computer"
+msgstr "המחשב שלי"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Personal Folder"
+msgstr "תיקייה אישית"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Pictures"
+msgstr "תמונות"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Power"
+msgstr "חשמל"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Programs"
+msgstr "תוכנות"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Recent"
+msgstr "אחרון"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Recent Applications"
+msgstr "יישומים אחרונים"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Recent Documents"
+msgstr "מסמכים אחרונים"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Recent Items"
+msgstr "פריטים אחרונים"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Run Application"
+msgstr "הפעלת יישום"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Search for Files"
+msgstr "חפש קבצים"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Show History"
+msgstr "הצג היסטוריה"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Shut Down"
+msgstr "כיבוי"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Shut Down..."
+msgstr "כיבוי..."
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Shutdown Computer"
+msgstr "כיבוי המחשב"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Start"
+msgstr "התחל"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Status"
+msgstr "מצב"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Used"
+msgstr "בשימוש"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "User"
+msgstr "משתמש"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Videos"
+msgstr "וידאו"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Web Bookmarks"
+msgstr "סימניות רשת"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Web Sites"
+msgstr "אתרי אינטרנט"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:342
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:1078
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:1089
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:1118
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:1149
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:1334
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:1338
+msgid "Search"
+msgstr "חיפוש"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:362
+msgid "Control Panel"
+msgstr "לוח בקרה"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:372
+msgid "Package Manager"
+msgstr "מנהל חבילות"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:382
+msgid "Help"
+msgstr "עזרה"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:402
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:303
+msgid "Lock Screen"
+msgstr "נעילת המסך"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:412
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:302
+msgid "Logout"
+msgstr "ניתוק"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:443
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:300
+msgid "Suspend"
+msgstr "השהיה"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:453
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:301
+msgid "Hibernate"
+msgstr "מצב שינה"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:464
+msgid "Run"
+msgstr "הפעלה"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:474
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:298
+msgid "Shutdown"
+msgstr "כיבוי"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:256
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:549
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:721
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:893
+msgid "About Me"
+msgstr "אודותיי"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:383
+msgid "Home Folder"
+msgstr "תיקיית הבית"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:384
+msgid "Computer"
+msgstr "מחשב"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:385
+msgid "Network"
+msgstr "רשת"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:489
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:524
+msgid "System"
+msgstr "מערכת"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:556
+msgid "Most Used"
+msgstr "השימושיים ביותר"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:556
+msgid "Recently Used"
+msgstr "בשימוש לאחרונה"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:61
+msgid "GnoMenu Settings"
+msgstr "הגדרות GnoMenu"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:83
+msgid "Ok"
+msgstr "אישור"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:85
+msgid "Apply"
+msgstr "החל"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:87
+msgid "Cancel"
+msgstr "ביטול"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:92
+msgid "Themes"
+msgstr "ערכות נושא"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:93
+#: gnomenu/src/lib/gnomenu/GnoMenuTray.py:42
+msgid "Preferences"
+msgstr "העדפות"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:94
+#: gnomenu/src/lib/gnomenu/GnoMenuTray.py:43
+msgid "About"
+msgstr "אודות"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:95
+msgid "Commands"
+msgstr "פקודות"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:114
+msgid "Menu Selection"
+msgstr "בחירת תפריט"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:137
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:165
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:195
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:216
+msgid "Install"
+msgstr "התקנה"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:139
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:167
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:197
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:218
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:771
+msgid "Uninstall"
+msgstr "הסרה"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:151
+msgid "Button Selection"
+msgstr "בחירת כפתור"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:181
+msgid "Icon Selection"
+msgstr "בחירת צלמית"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:213
+msgid "Sound theme"
+msgstr "ערכת צלילים"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:235
+msgid "Bind keyboad key"
+msgstr "שיוך מקש מקלדת"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:242
+msgid "Show Internet and Email Buttons"
+msgstr "הצגת כפתורי האינטרנט והדוא\"ל"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:244
+msgid "Use Gtk Theme Colors in Program List"
+msgstr "שימוש בצבעי ערכת הנושא של GTK ברשימת התוכנות"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:246
+msgid "Tab Selection on Mouse Hover"
+msgstr "בחירת לשוניות במעבר עכבר"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:253
+msgid "Icon Size in Program List"
+msgstr "גודל צלמית ברשימת התוכנות"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:255
+msgid "Number of Items in Recent Items List"
+msgstr "מספר פריטים ברשימה \"פריטים אחרונים\""
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:269
+msgid "Listview"
+msgstr "תצוגת רשימה"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:270
+msgid "Buttons (expanded)"
+msgstr "כפתורים (מורחב)"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:271
+msgid "Buttons (fixed)"
+msgstr "כפתורים (קבוע)"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:272
+msgid "Iconview (fastest)"
+msgstr "תוצגת סמלים (מהירה יותר)"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:273
+msgid "Cairo (experimental)"
+msgstr "Cairo (לא נתמך טוב)"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:276
+msgid "Tab hover effect"
+msgstr "אפקט לשונית מרחפת"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:278
+msgid "None"
+msgstr "ללא"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:279
+msgid "Grow"
+msgstr "הגדלה"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:280
+msgid "Black and White"
+msgstr "שחור ולבן"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:281
+msgid "Blur"
+msgstr "טשטוש"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:282
+msgid "Glow"
+msgstr "הילה"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:283
+msgid "Saturate"
+msgstr "הרווה"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:286
+msgid "Program list type"
+msgstr "סוג רשימת תוכנות"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:287
+msgid "Use system icons instead of theme icons"
+msgstr "שימוש בצלמיות המערכת במקום באלו המסופקות עם ערכת הנושא"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:289
+msgid "Use distributor logo instead of button theme"
+msgstr "השתמשו בלוגו המפיץ במקום ערכת נושא של לחצן"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:291
+msgid "Show thumbnails in recent items when available"
+msgstr "הצג דוגמיות לפריטים אחרונים כשניתן"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:293
+msgid "Show tooltips in program list"
+msgstr "הצג חלוניות מוקפצות ברשימת התוכנות"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:296
+msgid "Activate Compiz blur effect on GnoMenu window"
+msgstr "הפעל את אפקט הטשטוש של Compiz בחלון GnoMenu."
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:303
+msgid "Disable Places and System in program list"
+msgstr "ביטול מקומות ומערכת ברשימת התכניות"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:352
+msgid "Network Config"
+msgstr "תצורת הרשת"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:392
+msgid "Shutdown Dialog"
+msgstr "תיבת דו־שיח הכיבוי"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:422
+msgid "Logout Dialog"
+msgstr "תיבת דו־שיח ההנתקות"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:432
+msgid "Restart"
+msgstr "הפעלה מחדש"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:484
+msgid "User about"
+msgstr "אודות המשתמש"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:494
+#: gnomenu/src/lib/gnomenu/Gnome_Me.py:127
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:575
+msgid "Open as Administrator"
+msgstr "פתיחה כמנהל"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:504
+msgid "Menu Editor"
+msgstr "עורך התפריטים"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:544
+msgid "Donate"
+msgstr "תרומה"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:547
+msgid "Download More Themes"
+msgstr "הורדת ערכות נושא נוספות"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:550
+msgid "GnoMenu Themes Specifications"
+msgstr "מפרטי ערכות נושא GnoMenu."
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:553
+msgid "Report Bug"
+msgstr "דיווח על תקלה"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:556
+msgid "Help Translate"
+msgstr "עזרה בתרגום"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:559
+msgid "Visit Homepage"
+msgstr "בקר באתר הבית"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:562
+msgid "Credits"
+msgstr "תודות"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:580
+#: gnomenu/src/lib/gnomenu/GnoMenu.py:149
+#: gnomenu/src/lib/gnomenu/GnoMenu.py:228
+#: gnomenu/src/lib/gnomenu/GnoMenu_rewrite.py:238
+#: gnomenu/src/lib/gnomenu/GnoMenu_rewrite.py:313
+msgid "Menu needs to restart , restart now?"
+msgstr "נדרשת הפעלה מחדש של התפריט. האם לבצע את פעולה זו כעת?"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:771
+msgid "theme"
+msgstr "ערכת נושא"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:788
+msgid "Install a new theme"
+msgstr "התקנת ערכת נושא חדשה"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:812
+msgid "Error - Theme package is corrupt!"
+msgstr "שגיאה -  ערכת נושא פגומה!"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:833
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:842
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:849
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:865
+msgid ""
+"Error - theme not installed\n"
+"Maybe the Theme was packaged incorrectly\n"
+"Try to install the Theme manually"
+msgstr ""
+"שגיאה - ערכת הנושא אינה מותקנת.\n"
+"ייתכן שהיא לא נארזה כראוי.\n"
+"נסה להתקין אותה ידנית."
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:855
+msgid "Theme exists. Continue?"
+msgstr "ערכת הנושא קיימת. להמשיך?"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:863
+msgid "Theme installed"
+msgstr "ערכת הנושא הותקנה"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:874
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:893
+msgid ""
+"This theme was created for a previous version of GnoMenu.\n"
+"The theme was automaticly updated in order to work properly."
+msgstr ""
+"ערכת נושא זו נוצרה בעבור גרסה קודמת של GnoMenu.\n"
+"הערכה עודכנה באופן אוטומאטי על מנת לעבוד כראוי."
+
+#: gnomenu/src/lib/gnomenu/GnoMenuTray.py:44
+msgid "Edit Menus"
+msgstr "ערוך תפריטים"
+
+#: gnomenu/src/lib/gnomenu/GnoMenuTray.py:45
+msgid "Quit"
+msgstr "יציאה"
+
+#: gnomenu/src/lib/gnomenu/Gnome_Me.py:87
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:667
+msgid "added to favorites list"
+msgstr "נוסף לרשימת המועדפים"
+
+#: gnomenu/src/lib/gnomenu/Gnome_Me.py:97
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:678
+msgid "removed from favorites list"
+msgstr "הוסר מרשימת המועדפים"
+
+#: gnomenu/src/lib/gnomenu/Gnome_Me.py:105
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:686
+msgid "added to system startup"
+msgstr "נוסף ליישומי הפעלה"
+
+#: gnomenu/src/lib/gnomenu/Gnome_Me.py:113
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:694
+msgid "removed from system startup"
+msgstr "הוסר מיישומי הפעלה"
+
+#: gnomenu/src/lib/gnomenu/Gnome_Me.py:131
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:618
+msgid "Add to Favorites"
+msgstr "הוספה למועדפים"
+
+#: gnomenu/src/lib/gnomenu/Gnome_Me.py:135
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:621
+msgid "Remove from Favorites"
+msgstr "הסרה מהמועדפים"
+
+#: gnomenu/src/lib/gnomenu/Gnome_Me.py:138
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:623
+msgid "Create Desktop Shortcut"
+msgstr "יצירת קיצור דרך על שולחן העבודה"
+
+#: gnomenu/src/lib/gnomenu/Gnome_Me.py:142
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:626
+msgid "Remove from System Startup"
+msgstr "הסר מהליך הפעלת המערכת"
+
+#: gnomenu/src/lib/gnomenu/Gnome_Me.py:144
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:628
+msgid "Add to System Startup"
+msgstr "הוסף להליך הפעלת המערכת"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:257
+msgid "Appearance"
+msgstr "חזות"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:258
+msgid "Menu editor"
+msgstr "עורך התפריט"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:259
+msgid "Screensaver"
+msgstr "שומר מסך"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:260
+msgid "System Monitor"
+msgstr "צג המערכת"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:261
+msgid "GnoMenu settings utility"
+msgstr "כלי ההגדרות של GnoMenu"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:281
+msgid ""
+"No favorites\n"
+"Use the mouse right button\n"
+"to add or remove favorites"
+msgstr ""
+"אין מועדפים\n"
+"השתמש בלחצן העכבר הימני\n"
+"כדי להוסיף או להסיר מועדפים"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:299
+msgid "Reboot"
+msgstr "הפעלה מחדש"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:326
+msgid "Clear recent documents"
+msgstr "ניקוי רשימת המסמכים האחרונים"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:364
+msgid "File System"
+msgstr "מערכות קבצים"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:386
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:613
+msgid "Trash"
+msgstr "אשפה"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:434
+msgid "No items matched your search criteria"
+msgstr "לא נמצאו פריטים המתאימים לשאילתת החיפוש שלך"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:438
+msgid "Found %s results to your search"
+msgstr "נמצאו %s תוצאות"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:475
+msgid "Browse Internet"
+msgstr "גלישה באינטרנט"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:476
+msgid "E-mail"
+msgstr "דוא\"ל"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:481
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:516
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:572
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:1588
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:1962
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:2241
+msgid "Back"
+msgstr "חזרה"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:485
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:527
+msgid "Places"
+msgstr "מקומות"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:602
+msgid "Open with"
+msgstr "פתיחה באמצעות"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:615
+msgid "Empty Trash"
+msgstr "ריקון האשפה"
+
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:1598
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:1972
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:2242
+msgid "Return to last menu"
+msgstr "חזור אל התפריט הקודם"
+
+#: gnomenu/src/lib/gnomenu/Popup_Menu.py:72
+msgid "XML-Error: %s"
+msgstr "שגיאת XML: %s"
+
+#: gnomenu/src/lib/gnomenu/Popup_Menu.py:201
+msgid "Error while creating image from file: %s"
+msgstr "תקלה בעת יצירת תמונה מקובץ: %s"
+
+#: gnomenu/src/lib/gnomenu/Popup_Menu.py:217
+msgid "Error: file %s not found."
+msgstr "שגיאה: הקובץ %s לא נמצא."
+
+#: gnomenu/src/lib/gnomenu/Popup_Menu.py:271
+msgid "Exception: %s"
+msgstr "חריגות: %s"
+
+#: gnomenu/src/lib/gnomenu/Popup_Menu.py:272
+msgid "An error occured with desktop-file: %s"
+msgstr "אירעה שגיאה עם קובץ desktop: %s"

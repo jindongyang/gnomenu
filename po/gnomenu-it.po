@@ -1,0 +1,761 @@
+# Italian translation for gnomenu
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the gnomenu package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnomenu\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2010-06-16 22:37+0000\n"
+"PO-Revision-Date: 2010-06-23 00:06+0000\n"
+"Last-Translator: Daniele Angeloni <Unknown>\n"
+"Language-Team: Italian <it@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2010-07-07 17:36+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:73
+msgid ""
+"GnoMenu detected a malicious script in this theme.\n"
+"The script was blocked!\n"
+"You should uninstall the selected theme and contact the website where you "
+"got it.\n"
+"\n"
+"The script that tried to run was:"
+msgstr ""
+"Gnomenu ha trovato uno script che può danneggiare il computer in questo "
+"tema.\n"
+"Lo script è stato bloccato.\n"
+"Dovresti disinstallare questo tema e contattare il sito da cui l'hai "
+"scaricato.\n"
+"\n"
+"Lo script che cercava di avviarsi era:"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "All Applications"
+msgstr "Tutte le applicazioni"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "All Programs"
+msgstr "Tutti i programmi"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Applications"
+msgstr "Applicazioni"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Connect"
+msgstr "Connetti"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Connect To"
+msgstr "Connetti a"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Connect To Server"
+msgstr "Connetti al server"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Connect to Server"
+msgstr "Connetti al server"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Control Center"
+msgstr "Centro di controllo"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Distro"
+msgstr "Distribuzione"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Documents"
+msgstr "Documenti"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Execute Application"
+msgstr "Esegui applicazione"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Favorites"
+msgstr "Preferiti"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Games"
+msgstr "Giochi"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Hdd"
+msgstr "Hard Disk"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Help And Support"
+msgstr "Aiuto e supporto"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Help Center"
+msgstr "Aiuto"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "History"
+msgstr "Cronologia"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Home"
+msgstr "Home"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Install Software"
+msgstr "Installa applicativi"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Leave"
+msgstr "Abbandona"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Lock"
+msgstr "Blocca"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Lock Computer"
+msgstr "Blocca il computer"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Log Out"
+msgstr "Termina la sessione"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Menu"
+msgstr "Menu"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Music"
+msgstr "Musica"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "My Computer"
+msgstr "Risorse del computer"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Personal Folder"
+msgstr "Cartella personale"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Pictures"
+msgstr "Immagini"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Power"
+msgstr "Alimentazione"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Programs"
+msgstr "Programmi"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Recent"
+msgstr "Recente"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Recent Applications"
+msgstr "Applicazioni recenti"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Recent Documents"
+msgstr "Documenti recenti"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Recent Items"
+msgstr "Elementi recenti"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Run Application"
+msgstr "Esegui applicazione"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Search for Files"
+msgstr "Cerca file"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Show History"
+msgstr "Mostra la cronologia"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Shut Down"
+msgstr "Arresta"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Shut Down..."
+msgstr "Arresta..."
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Shutdown Computer"
+msgstr "Spegni il computer"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Start"
+msgstr "Avvio"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Status"
+msgstr "Stato"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Used"
+msgstr "Utilizzato"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "User"
+msgstr "Utente"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Videos"
+msgstr "Video"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Web Bookmarks"
+msgstr "Segnalibri web"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Web Sites"
+msgstr "Siti Web"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:342
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:1078
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:1089
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:1118
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:1149
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:1334
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:1338
+msgid "Search"
+msgstr "Cerca"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:362
+msgid "Control Panel"
+msgstr "Pannello di controllo"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:372
+msgid "Package Manager"
+msgstr "Gestore dei pacchetti"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:382
+msgid "Help"
+msgstr "Aiuto"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:402
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:303
+msgid "Lock Screen"
+msgstr "Blocca lo schermo"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:412
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:302
+msgid "Logout"
+msgstr "Disconnetti"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:443
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:300
+msgid "Suspend"
+msgstr "Sospendi"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:453
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:301
+msgid "Hibernate"
+msgstr "Iberna"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:464
+msgid "Run"
+msgstr "Esegui"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:474
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:298
+msgid "Shutdown"
+msgstr "Spegni"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:256
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:549
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:721
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:893
+msgid "About Me"
+msgstr "Informazioni"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:383
+msgid "Home Folder"
+msgstr "Cartella Home"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:384
+msgid "Computer"
+msgstr "Computer"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:385
+msgid "Network"
+msgstr "Rete"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:489
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:524
+msgid "System"
+msgstr "Sistema"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:556
+msgid "Most Used"
+msgstr "Più Usato"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:556
+msgid "Recently Used"
+msgstr "Usati di recente"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:61
+msgid "GnoMenu Settings"
+msgstr "Impostazioni GnoMenu"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:83
+msgid "Ok"
+msgstr "Ok"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:85
+msgid "Apply"
+msgstr "Applica"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:87
+msgid "Cancel"
+msgstr "Annulla"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:92
+msgid "Themes"
+msgstr "Temi"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:93
+#: gnomenu/src/lib/gnomenu/GnoMenuTray.py:42
+msgid "Preferences"
+msgstr "Preferenze"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:94
+#: gnomenu/src/lib/gnomenu/GnoMenuTray.py:43
+msgid "About"
+msgstr "Riguardo a"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:95
+msgid "Commands"
+msgstr "Comandi"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:114
+msgid "Menu Selection"
+msgstr "Selezione menù"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:137
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:165
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:195
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:216
+msgid "Install"
+msgstr "Installa"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:139
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:167
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:197
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:218
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:771
+msgid "Uninstall"
+msgstr "Disinstalla"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:151
+msgid "Button Selection"
+msgstr "Selezione pulsanti"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:181
+msgid "Icon Selection"
+msgstr "Selezione icone"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:213
+msgid "Sound theme"
+msgstr "Suoni"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:235
+msgid "Bind keyboad key"
+msgstr "Scorciatoia da tastiera"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:242
+msgid "Show Internet and Email Buttons"
+msgstr "Mostra i pulsanti Internet e E-mail"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:244
+msgid "Use Gtk Theme Colors in Program List"
+msgstr "Utilizza lo schema di colori GTK nella lista dei programmi"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:246
+msgid "Tab Selection on Mouse Hover"
+msgstr "Seleziona Scheda al passaggio del mouse"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:253
+msgid "Icon Size in Program List"
+msgstr "Dimensione icone nella lista programmi"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:255
+msgid "Number of Items in Recent Items List"
+msgstr "Numero di oggetti nella lista oggetti recenti"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:269
+msgid "Listview"
+msgstr ""
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:270
+msgid "Buttons (expanded)"
+msgstr "Pulsanti (espansi)"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:271
+msgid "Buttons (fixed)"
+msgstr "Pulsanti (fissati)"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:272
+msgid "Iconview (fastest)"
+msgstr "Vista a icone (più veloce)"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:273
+msgid "Cairo (experimental)"
+msgstr "Cairo (sperimentale)"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:276
+msgid "Tab hover effect"
+msgstr "Effetto Tab hover"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:278
+msgid "None"
+msgstr "Nessuno"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:279
+msgid "Grow"
+msgstr "Espandi"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:280
+msgid "Black and White"
+msgstr "Bianco e nero"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:281
+msgid "Blur"
+msgstr "Sfocato"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:282
+msgid "Glow"
+msgstr "Bagliore"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:283
+msgid "Saturate"
+msgstr "Satura"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:286
+msgid "Program list type"
+msgstr "Tipologia lista programmi"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:287
+msgid "Use system icons instead of theme icons"
+msgstr "Usa icone di sistema invece delle icone del tema"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:289
+msgid "Use distributor logo instead of button theme"
+msgstr ""
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:291
+msgid "Show thumbnails in recent items when available"
+msgstr "Mostra anteprime nei documenti recenti quando possibile"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:293
+msgid "Show tooltips in program list"
+msgstr "Mostra tooltips nella lista programmi"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:296
+msgid "Activate Compiz blur effect on GnoMenu window"
+msgstr "Attivare l'effetto Compiz blur per la finestra di Gnomenu"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:303
+msgid "Disable Places and System in program list"
+msgstr "Disabilita Risorse e Sistema nella lista dei programmi"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:352
+msgid "Network Config"
+msgstr "Configurazioni di rete"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:392
+msgid "Shutdown Dialog"
+msgstr "Finestra di spegnimento"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:422
+msgid "Logout Dialog"
+msgstr "Finestra logout"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:432
+msgid "Restart"
+msgstr "Riavvia"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:484
+msgid "User about"
+msgstr "Info Utente"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:494
+#: gnomenu/src/lib/gnomenu/Gnome_Me.py:127
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:575
+msgid "Open as Administrator"
+msgstr "Apri come Amministratore"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:504
+msgid "Menu Editor"
+msgstr "Editor dei menu"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:544
+msgid "Donate"
+msgstr "Effettua una donazione"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:547
+msgid "Download More Themes"
+msgstr "Scarica nuovi temi"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:550
+msgid "GnoMenu Themes Specifications"
+msgstr "Specificazioni temi di GnoMenu"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:553
+msgid "Report Bug"
+msgstr "Invia una segnalazione di errore"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:556
+msgid "Help Translate"
+msgstr "Contribuisci alla traduzione"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:559
+msgid "Visit Homepage"
+msgstr "Visita la pagina web del programma"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:562
+msgid "Credits"
+msgstr "Riconoscimenti"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:580
+#: gnomenu/src/lib/gnomenu/GnoMenu.py:149
+#: gnomenu/src/lib/gnomenu/GnoMenu.py:228
+#: gnomenu/src/lib/gnomenu/GnoMenu_rewrite.py:238
+#: gnomenu/src/lib/gnomenu/GnoMenu_rewrite.py:313
+msgid "Menu needs to restart , restart now?"
+msgstr "Il menu deve essere riavviato. Riavviare ora?"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:771
+msgid "theme"
+msgstr "Tema"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:788
+msgid "Install a new theme"
+msgstr "Installa un nuovo tema"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:812
+msgid "Error - Theme package is corrupt!"
+msgstr "Errore - Il pacchetto del tema è corrotto!"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:833
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:842
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:849
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:865
+msgid ""
+"Error - theme not installed\n"
+"Maybe the Theme was packaged incorrectly\n"
+"Try to install the Theme manually"
+msgstr ""
+"Errore - tema non installato\n"
+"Probabilmente il pacchetto non è valido\n"
+"Prova a installare il tema manualmente"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:855
+msgid "Theme exists. Continue?"
+msgstr "Il tema esiste già. Continuare?"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:863
+msgid "Theme installed"
+msgstr "Tema installato"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:874
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:893
+msgid ""
+"This theme was created for a previous version of GnoMenu.\n"
+"The theme was automaticly updated in order to work properly."
+msgstr ""
+"Questo tema è stato creato per una versione meno recente di GnoMenu.\n"
+"Il tema è stato automaticamente aggiornato per poter funzionare "
+"correttamente."
+
+#: gnomenu/src/lib/gnomenu/GnoMenuTray.py:44
+msgid "Edit Menus"
+msgstr "Modifica i menù"
+
+#: gnomenu/src/lib/gnomenu/GnoMenuTray.py:45
+msgid "Quit"
+msgstr "Chiudi"
+
+#: gnomenu/src/lib/gnomenu/Gnome_Me.py:87
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:667
+msgid "added to favorites list"
+msgstr "Aggiunto alla lista dei preferiti"
+
+#: gnomenu/src/lib/gnomenu/Gnome_Me.py:97
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:678
+msgid "removed from favorites list"
+msgstr "Rimosso dalla lista dei preferiti"
+
+#: gnomenu/src/lib/gnomenu/Gnome_Me.py:105
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:686
+msgid "added to system startup"
+msgstr "Aggiunto all'avvio del sistema."
+
+#: gnomenu/src/lib/gnomenu/Gnome_Me.py:113
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:694
+msgid "removed from system startup"
+msgstr "Rimosso dall'avvio del sistema"
+
+#: gnomenu/src/lib/gnomenu/Gnome_Me.py:131
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:618
+msgid "Add to Favorites"
+msgstr "Aggiungi a preferiti"
+
+#: gnomenu/src/lib/gnomenu/Gnome_Me.py:135
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:621
+msgid "Remove from Favorites"
+msgstr "Rimuovi dai preferiti"
+
+#: gnomenu/src/lib/gnomenu/Gnome_Me.py:138
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:623
+msgid "Create Desktop Shortcut"
+msgstr "Crea collegamento sulla Scrivania"
+
+#: gnomenu/src/lib/gnomenu/Gnome_Me.py:142
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:626
+msgid "Remove from System Startup"
+msgstr "Rimuovi dall'avvio di sistema"
+
+#: gnomenu/src/lib/gnomenu/Gnome_Me.py:144
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:628
+msgid "Add to System Startup"
+msgstr "Aggiungi all'avvio di sistema"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:257
+msgid "Appearance"
+msgstr "Aspetto"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:258
+msgid "Menu editor"
+msgstr "Editor di menù"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:259
+msgid "Screensaver"
+msgstr "Screensaver"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:260
+msgid "System Monitor"
+msgstr "Monitor di sistema"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:261
+msgid "GnoMenu settings utility"
+msgstr "Impostazioni utilities di Gnomenu"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:281
+msgid ""
+"No favorites\n"
+"Use the mouse right button\n"
+"to add or remove favorites"
+msgstr ""
+"Nessun preferito:\n"
+"Usa il tasto destro del mouse\n"
+"per aggiungere o rimuovere favoriti"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:299
+msgid "Reboot"
+msgstr "Riavvia"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:326
+msgid "Clear recent documents"
+msgstr "Azzera documenti recenti"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:364
+msgid "File System"
+msgstr "File system"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:386
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:613
+msgid "Trash"
+msgstr "Cestino"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:434
+msgid "No items matched your search criteria"
+msgstr "Nessun elemento soddisfa i tuoi criteri di ricerca"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:438
+msgid "Found %s results to your search"
+msgstr "Trovati %s risultati nella tua ricerca"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:475
+msgid "Browse Internet"
+msgstr "Cerca su Internet"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:476
+msgid "E-mail"
+msgstr "E-mail"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:481
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:516
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:572
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:1588
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:1962
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:2241
+msgid "Back"
+msgstr "Indietro"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:485
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:527
+msgid "Places"
+msgstr "Risorse"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:602
+msgid "Open with"
+msgstr "Apri con"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:615
+msgid "Empty Trash"
+msgstr "Svuota il Cestino"
+
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:1598
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:1972
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:2242
+msgid "Return to last menu"
+msgstr "Ritorna al menu precedente"
+
+#: gnomenu/src/lib/gnomenu/Popup_Menu.py:72
+msgid "XML-Error: %s"
+msgstr "Errore-XML: %s"
+
+#: gnomenu/src/lib/gnomenu/Popup_Menu.py:201
+msgid "Error while creating image from file: %s"
+msgstr "Errore nella creazione dell'immagine dal file: %s"
+
+#: gnomenu/src/lib/gnomenu/Popup_Menu.py:217
+msgid "Error: file %s not found."
+msgstr "Errore: file %s non trovato."
+
+#: gnomenu/src/lib/gnomenu/Popup_Menu.py:271
+msgid "Exception: %s"
+msgstr "Eccezione: %s"
+
+#: gnomenu/src/lib/gnomenu/Popup_Menu.py:272
+msgid "An error occured with desktop-file: %s"
+msgstr "Si è verificato un errore con il file del desktop: %s"

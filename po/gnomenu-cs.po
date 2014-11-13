@@ -1,0 +1,757 @@
+# Czech translation for gnomenu
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the gnomenu package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnomenu\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2010-06-16 22:37+0000\n"
+"PO-Revision-Date: 2010-02-13 09:41+0000\n"
+"Last-Translator: Horanus <Unknown>\n"
+"Language-Team: Czech <cs@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2010-07-07 17:36+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:73
+msgid ""
+"GnoMenu detected a malicious script in this theme.\n"
+"The script was blocked!\n"
+"You should uninstall the selected theme and contact the website where you "
+"got it.\n"
+"\n"
+"The script that tried to run was:"
+msgstr ""
+"GnoMenu detekoval škodlivý skript v tomto motivu.\n"
+"Skript byl zablokován!\n"
+"Měli byste odinstalovat vybraný motiv a kontaktovat stránky kde jste jej "
+"získali.\n"
+"\n"
+"Skript který se pokoušel spustit byl:"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "All Applications"
+msgstr "Všechny aplikace"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "All Programs"
+msgstr "Všechny programy"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Applications"
+msgstr "Aplikace"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Connect"
+msgstr "Připojit"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Connect To"
+msgstr "Připojit do"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Connect To Server"
+msgstr "Připojit na server"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Connect to Server"
+msgstr "Připojení k serveru"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Control Center"
+msgstr "Ovládací centrum"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Distro"
+msgstr "Distro"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Documents"
+msgstr "Dokumenty"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Execute Application"
+msgstr "Provést aplikaci"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Favorites"
+msgstr "Oblíbené"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Games"
+msgstr "Hry"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Hdd"
+msgstr "Hdd"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Help And Support"
+msgstr "Nápověda a podpora"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Help Center"
+msgstr "Centrum nápovědy"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "History"
+msgstr "Historie(History)"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Home"
+msgstr "Domov"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Install Software"
+msgstr "Instalovat software"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Leave"
+msgstr "Odejít"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Lock"
+msgstr "Zámek"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Lock Computer"
+msgstr "Uzamknout počítač"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Log Out"
+msgstr "Odhlásit se"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Menu"
+msgstr "Menu"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Music"
+msgstr "Hudba"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "My Computer"
+msgstr "Můj počítač"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Personal Folder"
+msgstr "Osobní složka"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Pictures"
+msgstr "Obrázky"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Power"
+msgstr "Síla"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Programs"
+msgstr "Programy"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Recent"
+msgstr "Poslední"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Recent Applications"
+msgstr "Nedávné aplikace"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Recent Documents"
+msgstr "Poslední dokumenty"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Recent Items"
+msgstr "Poslední položky"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Run Application"
+msgstr "Spuštění aplikace"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Search for Files"
+msgstr "Hledat soubory"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Show History"
+msgstr "Ukázat historii"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Shut Down"
+msgstr "Vypnutí"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Shut Down..."
+msgstr "Vypnout..."
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Shutdown Computer"
+msgstr "Vypnout počítač"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Start"
+msgstr "Spouštění"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Status"
+msgstr "Status"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Used"
+msgstr "Využito"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "User"
+msgstr "Uživatel"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Videos"
+msgstr "Videa"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Web Bookmarks"
+msgstr "Webové záložky"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+msgid "Web Sites"
+msgstr "Webové Stránky"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:342
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:1078
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:1089
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:1118
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:1149
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:1334
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:1338
+msgid "Search"
+msgstr "Vyhledávání"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:362
+msgid "Control Panel"
+msgstr "Panel nastavení"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:372
+msgid "Package Manager"
+msgstr "Prohlížeč balíčků"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:382
+msgid "Help"
+msgstr "Nápověda"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:402
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:303
+msgid "Lock Screen"
+msgstr "Uzamknout obrazovku"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:412
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:302
+msgid "Logout"
+msgstr "Odhlásit"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:443
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:300
+msgid "Suspend"
+msgstr "Uspat do paměti"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:453
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:301
+msgid "Hibernate"
+msgstr "Uspat na disk"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:464
+msgid "Run"
+msgstr "Spustit"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:474
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:298
+msgid "Shutdown"
+msgstr "Vypnout počítač"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:256
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:549
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:721
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:893
+msgid "About Me"
+msgstr "O mně"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:383
+msgid "Home Folder"
+msgstr "Moje dokumenty"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:384
+msgid "Computer"
+msgstr "Počítač"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:385
+msgid "Network"
+msgstr "Síť"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:489
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:524
+msgid "System"
+msgstr "Systém"
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:556
+msgid "Most Used"
+msgstr ""
+
+#: gnomenu/src/lib/gnomenu/Globals.py:565
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:556
+msgid "Recently Used"
+msgstr "Posledně použité"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:61
+msgid "GnoMenu Settings"
+msgstr "GnoMenu nastavení"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:83
+msgid "Ok"
+msgstr "OK"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:85
+msgid "Apply"
+msgstr "Použít"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:87
+msgid "Cancel"
+msgstr "Ukončení"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:92
+msgid "Themes"
+msgstr "Témata"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:93
+#: gnomenu/src/lib/gnomenu/GnoMenuTray.py:42
+msgid "Preferences"
+msgstr "Nastavení"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:94
+#: gnomenu/src/lib/gnomenu/GnoMenuTray.py:43
+msgid "About"
+msgstr "O programu"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:95
+msgid "Commands"
+msgstr "Příkazy"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:114
+msgid "Menu Selection"
+msgstr "Výber menu"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:137
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:165
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:195
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:216
+msgid "Install"
+msgstr "Instalovat"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:139
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:167
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:197
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:218
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:771
+msgid "Uninstall"
+msgstr "Odinstalovat"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:151
+msgid "Button Selection"
+msgstr "Výběr tlačítka"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:181
+msgid "Icon Selection"
+msgstr "Výběr ikonky"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:213
+msgid "Sound theme"
+msgstr "Téma zvuku"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:235
+msgid "Bind keyboad key"
+msgstr ""
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:242
+msgid "Show Internet and Email Buttons"
+msgstr "Ukázat internetová a emailová tlačítka"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:244
+msgid "Use Gtk Theme Colors in Program List"
+msgstr "Použít Gtk barevná témata na seznam programů"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:246
+msgid "Tab Selection on Mouse Hover"
+msgstr "Výběr tabu při přejetí myší"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:253
+msgid "Icon Size in Program List"
+msgstr "Velikost ikonky v seznamu programů"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:255
+msgid "Number of Items in Recent Items List"
+msgstr "Počet položek v Seznamu posledně spuštěných programů"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:269
+msgid "Listview"
+msgstr ""
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:270
+msgid "Buttons (expanded)"
+msgstr "Tlačítka (roztahovací)"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:271
+msgid "Buttons (fixed)"
+msgstr "Tlačítka (Upevněná)"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:272
+msgid "Iconview (fastest)"
+msgstr ""
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:273
+msgid "Cairo (experimental)"
+msgstr "Cairo (experimentální)"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:276
+msgid "Tab hover effect"
+msgstr "Efekt tabu při přejetí myši"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:278
+msgid "None"
+msgstr "Nic"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:279
+msgid "Grow"
+msgstr "Zvětšit"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:280
+msgid "Black and White"
+msgstr "Černobílý"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:281
+msgid "Blur"
+msgstr "Rozostření"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:282
+msgid "Glow"
+msgstr "Záře"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:283
+msgid "Saturate"
+msgstr "Saturace"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:286
+msgid "Program list type"
+msgstr "Druh seznamu programů"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:287
+msgid "Use system icons instead of theme icons"
+msgstr "Použití systémové ikony namísto motivu ikon"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:289
+msgid "Use distributor logo instead of button theme"
+msgstr ""
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:291
+msgid "Show thumbnails in recent items when available"
+msgstr "Zobrazit náhledy v nedávných programech pokud jsou dostupné"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:293
+msgid "Show tooltips in program list"
+msgstr "Zobrazit bublinové nápovědy v seznamu programů"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:296
+msgid "Activate Compiz blur effect on GnoMenu window"
+msgstr "Aktivovat Compiz rozmazávací efekt na GnoMenu okno"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:303
+msgid "Disable Places and System in program list"
+msgstr ""
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:352
+msgid "Network Config"
+msgstr "Nastavení sítě"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:392
+msgid "Shutdown Dialog"
+msgstr "Dialog pro vypnutí"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:422
+msgid "Logout Dialog"
+msgstr "Dialog odhlášení"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:432
+msgid "Restart"
+msgstr "Restartovat"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:484
+msgid "User about"
+msgstr "O uživateli"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:494
+#: gnomenu/src/lib/gnomenu/Gnome_Me.py:127
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:575
+msgid "Open as Administrator"
+msgstr "Otevřít jako administrator"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:504
+msgid "Menu Editor"
+msgstr ""
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:544
+msgid "Donate"
+msgstr "Přispět"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:547
+msgid "Download More Themes"
+msgstr "Stáhnout více témat"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:550
+msgid "GnoMenu Themes Specifications"
+msgstr "Specifikace Motivu GnoMenu"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:553
+msgid "Report Bug"
+msgstr "Nahlásit chybu"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:556
+msgid "Help Translate"
+msgstr "Pomoci s překladem"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:559
+msgid "Visit Homepage"
+msgstr "Navštívit domovskou stránku"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:562
+msgid "Credits"
+msgstr "Zásluhy"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:580
+#: gnomenu/src/lib/gnomenu/GnoMenu.py:149
+#: gnomenu/src/lib/gnomenu/GnoMenu.py:228
+#: gnomenu/src/lib/gnomenu/GnoMenu_rewrite.py:238
+#: gnomenu/src/lib/gnomenu/GnoMenu_rewrite.py:313
+msgid "Menu needs to restart , restart now?"
+msgstr "Menu potřebuje restartovat , restartovat nyní?"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:771
+msgid "theme"
+msgstr "téma"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:788
+msgid "Install a new theme"
+msgstr "Instalovat nové téma"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:812
+msgid "Error - Theme package is corrupt!"
+msgstr ""
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:833
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:842
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:849
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:865
+msgid ""
+"Error - theme not installed\n"
+"Maybe the Theme was packaged incorrectly\n"
+"Try to install the Theme manually"
+msgstr ""
+"Chyba - téma nenainstalován\n"
+"Možná bylo téma špatně zabaleno\n"
+"Zkuste nainstalovat téma manuálně"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:855
+msgid "Theme exists. Continue?"
+msgstr "Téma existuje. Dokončit?"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:863
+msgid "Theme installed"
+msgstr "Téma nainstalováno"
+
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:874
+#: gnomenu/src/lib/gnomenu/GnoMenu-Settings.py:893
+msgid ""
+"This theme was created for a previous version of GnoMenu.\n"
+"The theme was automaticly updated in order to work properly."
+msgstr ""
+
+#: gnomenu/src/lib/gnomenu/GnoMenuTray.py:44
+msgid "Edit Menus"
+msgstr "Upravit nabídky"
+
+#: gnomenu/src/lib/gnomenu/GnoMenuTray.py:45
+msgid "Quit"
+msgstr "Ukončit"
+
+#: gnomenu/src/lib/gnomenu/Gnome_Me.py:87
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:667
+msgid "added to favorites list"
+msgstr ""
+
+#: gnomenu/src/lib/gnomenu/Gnome_Me.py:97
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:678
+msgid "removed from favorites list"
+msgstr ""
+
+#: gnomenu/src/lib/gnomenu/Gnome_Me.py:105
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:686
+msgid "added to system startup"
+msgstr ""
+
+#: gnomenu/src/lib/gnomenu/Gnome_Me.py:113
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:694
+msgid "removed from system startup"
+msgstr ""
+
+#: gnomenu/src/lib/gnomenu/Gnome_Me.py:131
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:618
+msgid "Add to Favorites"
+msgstr "Přidat mezi oblíbené"
+
+#: gnomenu/src/lib/gnomenu/Gnome_Me.py:135
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:621
+msgid "Remove from Favorites"
+msgstr "Odstranit z oblíbených"
+
+#: gnomenu/src/lib/gnomenu/Gnome_Me.py:138
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:623
+msgid "Create Desktop Shortcut"
+msgstr "Vytvořit zástupce na ploše"
+
+#: gnomenu/src/lib/gnomenu/Gnome_Me.py:142
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:626
+msgid "Remove from System Startup"
+msgstr "Odstranit ze startu systému"
+
+#: gnomenu/src/lib/gnomenu/Gnome_Me.py:144
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:628
+msgid "Add to System Startup"
+msgstr "Přidat do startu systému"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:257
+msgid "Appearance"
+msgstr "Zobrazení"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:258
+msgid "Menu editor"
+msgstr "Editor menu"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:259
+msgid "Screensaver"
+msgstr "Spořič obrazovky"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:260
+msgid "System Monitor"
+msgstr "Systémový pozorovatel"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:261
+msgid "GnoMenu settings utility"
+msgstr "GnoMenu nástroj pro nastavení"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:281
+msgid ""
+"No favorites\n"
+"Use the mouse right button\n"
+"to add or remove favorites"
+msgstr ""
+"Žádné oblíbené\n"
+"Pro odstranění či přidání oblíbených položek\n"
+"použijte pravé tlačítko myši."
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:299
+msgid "Reboot"
+msgstr "Restartovat"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:326
+msgid "Clear recent documents"
+msgstr "Vyčistit poslední dokumenty"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:364
+msgid "File System"
+msgstr "Systém souborů"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:386
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:613
+msgid "Trash"
+msgstr "Koš"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:434
+msgid "No items matched your search criteria"
+msgstr "Žádné shodující se výsledky pro vaše kritéria"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:438
+msgid "Found %s results to your search"
+msgstr "Nalezeno %s výsledků vašeho vyhledávání"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:475
+msgid "Browse Internet"
+msgstr "Procházet internet"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:476
+msgid "E-mail"
+msgstr "E-mail"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:481
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:516
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:572
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:1588
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:1962
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:2241
+msgid "Back"
+msgstr "Zpět"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:485
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:527
+msgid "Places"
+msgstr "Místa"
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:602
+msgid "Open with"
+msgstr ""
+
+#: gnomenu/src/lib/gnomenu/Menu_Items.py:615
+msgid "Empty Trash"
+msgstr ""
+
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:1598
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:1972
+#: gnomenu/src/lib/gnomenu/Menu_Widgets.py:2242
+msgid "Return to last menu"
+msgstr "Vrátit se na poslední menu"
+
+#: gnomenu/src/lib/gnomenu/Popup_Menu.py:72
+msgid "XML-Error: %s"
+msgstr "Chyba XML: %s"
+
+#: gnomenu/src/lib/gnomenu/Popup_Menu.py:201
+msgid "Error while creating image from file: %s"
+msgstr "Chyba při vytváření obrázku ze souboru: %s"
+
+#: gnomenu/src/lib/gnomenu/Popup_Menu.py:217
+msgid "Error: file %s not found."
+msgstr "Chyba: soubor %s nenalezen."
+
+#: gnomenu/src/lib/gnomenu/Popup_Menu.py:271
+msgid "Exception: %s"
+msgstr "Výjimka: %s"
+
+#: gnomenu/src/lib/gnomenu/Popup_Menu.py:272
+msgid "An error occured with desktop-file: %s"
+msgstr "Došlo k chybě se souborem desktop: %s"

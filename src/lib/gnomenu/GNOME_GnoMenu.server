@@ -1,0 +1,27 @@
+<oaf_info>
+	<oaf_server iid="OAFIID:GNOME_GnoMenu_Factory" type="exe" location="/usr/lib/gnomenu/GnoMenu.py">
+		<oaf_attribute name="repo_ids" type="stringv">
+			<item value="IDL:Bonobo/GenericFactory:1.0"/>
+			<item value="IDL:Bonobo/Unknown:1.0"/>
+		</oaf_attribute>
+		<oaf_attribute name="name" type="string" value="GnoMenu Factory"/>
+		<oaf_attribute name="description" type="string" value="Customizable Start Menu for the GNOME Desktop"/>
+	</oaf_server>
+
+	<oaf_server iid="OAFIID:GNOME_GnoMenu" type="factory" location="OAFIID:GNOME_GnoMenu_Factory">
+		<oaf_attribute name="repo_ids" type="stringv">
+			<item value="IDL:GNOME/Vertigo/PanelAppletShell:1.0"/>
+			<item value="IDL:Bonobo/Control:1.0"/>
+			<item value="IDL:Bonobo/Unknown:1.0"/>
+		</oaf_attribute>
+		<oaf_attribute name="name" type="string" value="GnoMenu"/>
+		<oaf_attribute name="description" type="string" value="Customizable Start Menu for the GNOME Desktop"/>
+		<oaf_attribute name="panel:category" type="string" value="Utilities"/>
+		<oaf_attribute name="panel:icon" type="string" value="/usr/lib/gnomenu/graphics/logo.png"/>
+		<oaf_attribute name="bugzilla:bugzilla" type="string" value="GNOME"/>
+	        <oaf_attribute name="bugzilla:product" type="string" value="gnome-panel"/>
+	        <oaf_attribute name="bugzilla:component" type="string" value="menu"/>
+		<oaf_attribute name="bugzilla:version" type="string" value="2.20.0.1"/>
+	        <oaf_attribute name="bugzilla:other_binaries" type="string" value="GnoMenu"/>
+	</oaf_server>
+</oaf_info>

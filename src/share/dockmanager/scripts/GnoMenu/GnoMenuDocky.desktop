@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Name=GnoMenuDocky
+Exec=/usr/share/dockmanager/scripts/GnoMenu/GnoMenuDocky.py
+Type=Application
+StartupNotify=true
+Comment=GnoMenu consolidated menu for Gnome
+Icon=distributor-logo
+X-GNOME-Autostart-enabled=true

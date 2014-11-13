@@ -1,0 +1,14 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Name=GnoMenu
+Type=Application
+X-AWN-Type=Applet
+X-AWN-AppletType=Python
+Comment=GnoMenu consolidated menu for Gnome
+Exec=awn-applet -p %k
+X-AWN-AppletExec=GnoMenu/GnoMenu.py
+Icon=GnoMenu/logo.png
+X-AWN-Applet-Category=Utility,Menu
+Name[pt_PT]=GnoMenu

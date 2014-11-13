@@ -1,0 +1,5 @@
+NAME="GnoMenu"
+DESCRIPTION="Consolidated menu for gnome"
+ICON="distributor-logo"
+AppName=GnoMenu
+
